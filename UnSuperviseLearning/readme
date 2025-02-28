@@ -1,2 +1,5 @@
 This folder contains Unsupervised Learning scripts for various projects.
 
+1.To predict Iris flower species using Unsupervised learning KMeans algorithms.
+  Dataset is retrieved from sklearn library iris dataset. 
+	
