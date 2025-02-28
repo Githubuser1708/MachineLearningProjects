@@ -2,4 +2,9 @@ This folder contains Unsupervised Learning scripts for various projects.
 
 1.To predict Iris flower species using Unsupervised learning KMeans algorithms.
   Dataset is retrieved from sklearn library iris dataset. 
+  File : Unsupervised_ML_Clustering_kMeans_repo.ipynb
+
+2. To predict customer segmentation groups based on KMeans algorithms (Unsupervised).
+   Dataset used is bank.csv 
+   File : KMeans_ML.ipynb
 	
