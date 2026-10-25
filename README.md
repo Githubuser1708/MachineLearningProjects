@@ -19,4 +19,5 @@ Timeseries data consists of at least two things:
 
 End
 
-Co-authored-by: kcusertiang  <kctiang508@gmail.com>
+
+Co-authored-by: kcusertiang  <kcusertiang@github.com>
