@@ -16,6 +16,12 @@ Welcome to download to use them for exercise or training purpose.
 Timeseries data consists of at least two things: 
 1 - an array of numbers that represents the data itself. 
 2 - another array that contains a timestamp for each datapoint. The timestamps can include a wide range of time data, from months of the year to nanoseconds.
-3 - Retrieving Dataset
+
+
+## - Retrieving Dataset (Python Libraries (Easiest & Free))
+
+• Yahoo Finance (yfinance): The most popular free source for daily and intraday historical open, high, low, close, and volume (OHLCV) data via the yfinance Python library.
+• Alpha Vantage: Offers a Python wrapper to query over 20 years of historical close prices and technical indicators.
+• FRED (Federal Reserve Economic Data): Best for macro-level time series data such as interest rates, inflation, and GDP.
 
 
