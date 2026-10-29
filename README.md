@@ -16,7 +16,7 @@ Welcome to download to use them for exercise or training purpose.
 Timeseries data consists of at least two things: 
 1 - an array of numbers that represents the data itself. 
 2 - another array that contains a timestamp for each datapoint. The timestamps can include a wide range of time data, from months of the year to nanoseconds.
-3 - update
-4 - adding Reinforcement Learning 
+3 - 
+4 - Retrieving Datasets 
 
 
