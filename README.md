@@ -10,7 +10,7 @@ Includes :
 - Evaluation
 - Conclusion
 
-Based on the evaluation metrcis of various algorigthms, conclude the most approporate algorithm to solve the problem.
+Based on the evaluation metrics of various algorithms, conclude the most appropriate algorithm to solve the problem.
 Welcome to download to use them for exercise or training purpose. 
 
 ## Timeseries data consists of at least two things: 
